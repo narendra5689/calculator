@@ -106,7 +106,7 @@ app
 
 ## 👨‍💻 Author
 
-**Narendra**
+**Narendra Nelluri**
 
 ---
 ## How to Run
